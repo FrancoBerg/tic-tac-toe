@@ -72,7 +72,6 @@ const updateBoard = (index) =>{
   if(newWinner) {
     setWinner(newWinner)
   }
-  //TODO: check if game is over
 }
 
  return (
